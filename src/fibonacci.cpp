@@ -56,11 +56,10 @@ namespace assignment {
       return n;
     }
 
-    // Напишите здесь свой код ...
+    return matrix_power(FibMatrix,n)[0][1];
 
     // Tip: используйте реализованную функцию matrix_pow
 
-    return 0;
   }
 
 }  // namespace assignment
